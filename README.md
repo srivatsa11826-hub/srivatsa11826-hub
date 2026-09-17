@@ -1,195 +1,231 @@
+<!--
+  GitHub Profile README for github.com/srivatsa11826-hub
+  Note: GitHub strips custom CSS and JavaScript, so the animated visual treatment
+  below uses GitHub-compatible SVG/GIF services rather than a true page background.
+-->
+
 <div align="center">
 
-<!-- Animated Typing Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=42&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hey+there+%F0%9F%91%8B;I'm+Srivatsa;Data+Science+%26+AI+Engineer;Full-Stack+Developer;Building+Intelligent+Systems" alt="Typing SVG" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,45:0f172a,100:0891b2&text=SRIVATSA&fontColor=ffffff&fontSize=54&fontAlignY=36&desc=Engineering%20intelligent%20products%20from%20data%20to%20deployment&descAlignY=58&descSize=18&animation=fadeIn" alt="Srivatsa — Engineering intelligent products from data to deployment" />
 
-<!-- Profile Views & Followers -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=srivatsa11826-hub&label=Profile%20Views&color=00d9ff&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/srivatsa11826-hub?label=Followers&style=flat-square&color=00d9ff" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/srivatsa11826-hub?label=Total%20Stars&style=flat-square&color=yellow" alt="Stars" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=2600&pause=800&color=22D3EE&center=true&vCenter=true&repeat=true&width=900&height=55&lines=Data+Science+%26+AI+Engineer;Full-Stack+%26+Software+Developer;Frontend+%7C+Backend+%7C+SQL;UI%2FUX+%26+Graphic+Designer;Building+reliable%2C+human-centered+digital+products" alt="Animated roles" />
+
+<p>
+  <a href="https://github.com/srivatsa11826-hub?tab=followers"><img src="https://img.shields.io/github/followers/srivatsa11826-hub?label=Followers&style=for-the-badge&logo=github&color=0891b2&labelColor=0f172a" alt="GitHub followers" /></a>
+  <img src="https://komarev.com/ghpvc/?username=srivatsa11826-hub&label=Profile+Views&style=for-the-badge&color=0891b2&labelColor=0f172a" alt="Profile views" />
+  <a href="https://github.com/srivatsa11826-hub?tab=repositories"><img src="https://img.shields.io/badge/Explore-Projects-22d3ee?style=for-the-badge&logo=github&logoColor=white&labelColor=0f172a" alt="Explore projects" /></a>
 </p>
 
-<!-- Animated Wave Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Srivatsa&fontSize=50&fontAlignY=35&desc=Data%20Science%20%7C%20AI%20%7C%20Full-Stack&descSize=20&fontColor=ffffff&descColor=00d9ff" width="100%"/>
+### AI systems · scalable software · thoughtful interfaces
+
+I turn ideas into dependable products—combining **machine learning**, **full-stack engineering**, **data**, and **design** to build experiences that are technically strong and genuinely useful.
 
 </div>
 
 ---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> About Me
+## About Me
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🎯 Current Focus
-- 🔭 Building **production-grade AI systems** with **LLMs & RAG architectures**
-- 🧠 Researching **multi-agent systems**, vector search, and knowledge graphs
-- 🌐 Architecting **scalable full-stack platforms** with cloud-native solutions
-- 🚀 Shipping **hackathon-grade prototypes** that solve real problems
+### What I build
+
+- Production-ready **AI and RAG systems**
+- Responsive, accessible **web applications**
+- Secure **APIs and backend services**
+- Real-time **analytics dashboards**
+- Data models and optimized **SQL workflows**
+- Consistent **design systems and visual identities**
 
 </td>
 <td width="50%" valign="top">
 
-### ⚡ Beyond Code
-- 🛰️ Passionate about **space tech, rocketry & astrophysics**
-- 🎨 Love crafting **real-time interactive UIs** & visual experiences
-- 📚 Continuous learner — currently exploring **MLOps pipelines**
-- 🏆 Believer in **open source** and community-driven development
+### What I am exploring
+
+- LLM evaluation, agents, and vector search
+- MLOps, observability, and model deployment
+- Distributed, cloud-native architectures
+- Human-centered AI product design
+- Space technology, rocketry, and astrophysics
+- Open-source and developer communities
 
 </td>
 </tr>
 </table>
 
----
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2rz3pzyd5pojk5&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="35"> Tech Arsenal
-
-<details>
-<summary><b>🧠 AI / Machine Learning</b></summary>
-<br>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-</p>
-
-</details>
-
-<details>
-<summary><b>💻 Programming Languages</b></summary>
-<br>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
-
-</details>
-
-<details>
-<summary><b>🌐 Web & Backend</b></summary>
-<br>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-</p>
-
-</details>
-
-<details>
-<summary><b>🗄️ Databases & Cloud</b></summary>
-<br>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
-</p>
-
-</details>
-
-<details>
-<summary><b>🛠️ Tools & Platforms</b></summary>
-<br>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-</p>
-
-</details>
+> **Engineering principle:** Great products live at the intersection of useful intelligence, reliable systems, and intuitive design.
 
 ---
 
-## 📊 GitHub Performance
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=srivatsa11826-hub&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srivatsa11826-hub&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=srivatsa11826-hub&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6C37&currStreakLabel=00D9FF" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=srivatsa11826-hub&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=srivatsa11826-hub&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" width="100%" />
-</div>
-
----
-
-## 🏆 Featured Projects
+## Core Capabilities
 
 <div align="center">
 
-| 🧠 AI & Data Science | 🌐 Full-Stack Apps | 🤖 IoT & Real-Time |
-|:---:|:---:|:---:|
-| [**🧠 MindMate**](br>AI-powered healthcare platform for patient assistance | [**📊 RAG Knowledge Agent**](br>Intelligent QA system with vector search | [**⚡ IoT Analytics Platform**](br>Real-time sensor data streaming dashboard |
-| React · Python · CSS | LangChain · Chroma · OpenAI | FastAPI · WebSockets · Pandas |
-| `⭐ Star` `🔱 Fork` | `⭐ Star` `🔱 Fork` | `⭐ Star` `🔱 Fork` |
+| Artificial Intelligence | Software Engineering | Product Design |
+|:---|:---|:---|
+| Machine learning & deep learning | Full-stack web development | UI/UX design |
+| LLM apps, RAG & agents | Frontend & backend engineering | Wireframes & prototyping |
+| NLP & data analytics | REST APIs & real-time systems | Design systems |
+| Vector search & evaluation | SQL, databases & cloud | Graphic & visual design |
 
 </div>
 
 ---
 
-## 🐍 Contribution Snake Animation
+## Technology Stack
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/srivatsa11826-hub/srivatsa11826-hub/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
+<details open>
+<summary><b>AI, Machine Learning & Data</b></summary>
+<br />
+<p>
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn&theme=dark" alt="Python, PyTorch, TensorFlow and scikit-learn" />
+</p>
+<p>
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=111827" alt="Hugging Face" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=111827" alt="Power BI" />
+</p>
+</details>
 
-> 💡 **Setup:** Create a repo named `srivatsa11826-hub` and enable GitHub Actions with the snake workflow to generate this animation.
+<details open>
+<summary><b>Frontend & UI Engineering</b></summary>
+<br />
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite&theme=dark" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS and Vite" />
+</p>
+<p>
+<img src="https://img.shields.io/badge/Responsive_Design-0f172a?style=flat-square&logo=css3&logoColor=22d3ee" alt="Responsive Design" />
+<img src="https://img.shields.io/badge/Accessibility-0f172a?style=flat-square&logo=w3c&logoColor=22d3ee" alt="Accessibility" />
+<img src="https://img.shields.io/badge/Component_Systems-0f172a?style=flat-square&logo=storybook&logoColor=ff4785" alt="Component Systems" />
+</p>
+</details>
+
+<details open>
+<summary><b>Backend, Databases & Cloud</b></summary>
+<br />
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,postgres,mysql,mongodb,redis,firebase,aws,gcp,docker&theme=dark" alt="Node.js, Express, FastAPI, PostgreSQL, MySQL, MongoDB, Redis, Firebase, AWS, Google Cloud and Docker" />
+</p>
+<p>
+<img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
+<img src="https://img.shields.io/badge/REST_APIs-0f172a?style=flat-square&logo=fastapi&logoColor=22d3ee" alt="REST APIs" />
+<img src="https://img.shields.io/badge/WebSockets-0f172a?style=flat-square&logo=socketdotio&logoColor=white" alt="WebSockets" />
+<img src="https://img.shields.io/badge/Database_Design-0f172a?style=flat-square&logo=databricks&logoColor=22d3ee" alt="Database Design" />
+</p>
+</details>
+
+<details open>
+<summary><b>Design, Developer Tools & Workflow</b></summary>
+<br />
+<p>
+<img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,git,github,linux,vscode,postman&theme=dark" alt="Figma, Photoshop, Illustrator, Git, GitHub, Linux, VS Code and Postman" />
+</p>
+<p>
+<img src="https://img.shields.io/badge/UI%2FUX_Design-A259FF?style=flat-square&logo=figma&logoColor=white" alt="UI/UX Design" />
+<img src="https://img.shields.io/badge/Graphic_Design-FF61F6?style=flat-square&logo=adobecreativecloud&logoColor=white" alt="Graphic Design" />
+<img src="https://img.shields.io/badge/Agile-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Agile" />
+</p>
+</details>
 
 ---
 
-## 💼 Currently Working On
+## Featured Work
+
+<div align="center">
+
+| Project | What it does | Technology |
+|:---|:---|:---|
+| **MindMate** | AI-assisted healthcare experience designed to support patient interaction and access to information. | React · Python · AI |
+| **RAG Knowledge Agent** | Context-aware question-answering workflow using retrieval, embeddings, and vector search. | LangChain · Chroma · LLMs |
+| **IoT Analytics Platform** | Real-time sensor ingestion and visualization for monitoring operational data. | FastAPI · WebSockets · Pandas |
+
+</div>
+
+<div align="center">
+  <a href="https://github.com/srivatsa11826-hub?tab=repositories"><img src="https://img.shields.io/badge/View_All_Repositories-0f172a?style=for-the-badge&logo=github&logoColor=22d3ee" alt="View all repositories" /></a>
+</div>
+
+<!-- Add direct links to the project titles above after publishing their repositories. -->
+
+---
+
+## GitHub Insights
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=srivatsa11826-hub&show_icons=true&theme=transparent&hide_border=true&title_color=22d3ee&icon_color=22d3ee&text_color=94a3b8&ring_color=0891b2" alt="Srivatsa's GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srivatsa11826-hub&layout=compact&theme=transparent&hide_border=true&title_color=22d3ee&text_color=94a3b8&langs_count=8" alt="Most-used languages" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=srivatsa11826-hub&theme=transparent&hide_border=true&ring=22D3EE&fire=F97316&currStreakLabel=22D3EE&sideLabels=94A3B8&dates=64748B&sideNums=E2E8F0&currStreakNum=E2E8F0" alt="GitHub contribution streak" />
+</div>
+
+<div align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=srivatsa11826-hub&bg_color=00000000&color=94a3b8&line=22d3ee&point=ffffff&area=true&area_color=0891b2&hide_border=true" alt="GitHub activity graph" />
+</div>
+
+---
+
+## Current Direction
 
 ```python
-class Srivatsa:
+class Engineer:
     def __init__(self):
         self.name = "Srivatsa"
-        self.role = "Data Science & AI Engineer"
-        self.location = "India 🇮🇳"
-        self.focus = ["AI Systems", "RAG", "Full-Stack Dev"]
-    
-    def current_projects(self):
-        return [
-            "🧠 Building production RAG pipelines",
-            "🌐 Crafting full-stack SaaS platforms",
-            "📊 Designing real-time analytics dashboards",
-            "🚀 Preparing for upcoming hackathons"
+        self.roles = [
+            "AI & Data Science Engineer",
+            "Full-Stack Software Developer",
+            "UI/UX & Graphic Designer",
         ]
-    
-    def say_hi(self):
-        print("Let's connect and build something amazing!")
+        self.principles = ["clarity", "reliability", "curiosity", "impact"]
 
-me = Srivatsa()
-me.say_hi()
+    def building_now(self):
+        return {
+            "ai": "production-ready RAG and intelligent workflows",
+            "software": "scalable, secure full-stack products",
+            "data": "real-time analytics and decision systems",
+            "design": "accessible and human-centered interfaces",
+        }
+
+    def collaborate(self):
+        return "Let's turn an ambitious idea into a useful product."
+```
+
+---
+
+## Contribution Activity
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/srivatsa11826-hub/srivatsa11826-hub/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/srivatsa11826-hub/srivatsa11826-hub/output/github-contribution-grid-snake.svg" />
+    <img alt="Animated GitHub contribution snake" src="https://raw.githubusercontent.com/srivatsa11826-hub/srivatsa11826-hub/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+---
+
+## Let’s Connect
+
+<div align="center">
+
+I am open to collaborating on **AI products, full-stack platforms, data systems, open-source projects, and thoughtful digital experiences**.
+
+<!-- Replace YOUR_LINKEDIN_USERNAME and YOUR_EMAIL before publishing. -->
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://github.com/srivatsa11826-hub"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+
+<br /><br />
+
+**Build with purpose. Design with empathy. Ship with confidence.**
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0891b2,55:0f172a,100:020617&section=footer" alt="Footer wave" />
+
+</div>
