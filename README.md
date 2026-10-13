@@ -167,7 +167,7 @@ I turn ideas into dependable products—combining **machine learning**, **full-s
 </div>
 
 <div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=srivatsa11826-hub&bg_color=00000000&color=94a3b8&line=22d3ee&point=ffffff&area=true&area_color=0891b2&hide_border=true" alt="GitHub activity graph" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=srivatsa11826-hub&bg_color=transparent&color=94a3b8&line=22d3ee&point=ffffff&area=true&area_color=0891b2&hide_border=true" alt="GitHub activity graph" />
 </div>
 
 ---
