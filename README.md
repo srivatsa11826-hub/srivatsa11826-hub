@@ -170,15 +170,6 @@ I turn ideas into dependable products—combining **machine learning**, **full-s
   
  <div align="center">
   
-  <h3>📈 GitHub Activity & Stats</h3>
-
-  <!-- 1. Overall Stats & 2. Top Languages (Forced Tokyo Night Dark Theme) -->
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=srivatsa11826-hub&show_icons=true&theme=tokyonight&hide_border=true&v=3" alt="GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srivatsa11826-hub&layout=compact&theme=tokyonight&hide_border=true&v=3" alt="Top Languages" />
-  </p>
-
-  <br />
 
   <!-- 3. Contribution Streak (Forced Tokyo Night Dark Theme) -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=srivatsa11826-hub&theme=tokyonight&hide_border=true&v=3" alt="GitHub Streak" />
