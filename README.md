@@ -165,7 +165,9 @@ I turn ideas into dependable products—combining **machine learning**, **full-s
 
 
   <!-- 4. Contribution Streak -->
+  <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=srivatsa11826-hub&theme=tokyonight&hide_border=true&background=transparent&v=1" alt="GitHub Streak" />
+  </div>
 
 </div>
 
