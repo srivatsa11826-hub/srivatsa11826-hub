@@ -162,21 +162,7 @@ I turn ideas into dependable products—combining **machine learning**, **full-s
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srivatsa11826-hub&layout=compact&theme=transparent&hide_border=true&title_color=22d3ee&text_color=94a3b8&langs_count=8" alt="Most-used languages" />
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=srivatsa11826-hub&theme=transparent&hide_border=true&ring=22D3EE&fire=F97316&currStreakLabel=22D3EE&sideLabels=94A3B8&dates=64748B&sideNums=E2E8F0&currStreakNum=E2E8F0" alt="GitHub contribution streak" />
-</div>
 
-<div align="center">
-  
- <div align="center">
-  
-
-  <!-- 3. Contribution Streak (Forced Tokyo Night Dark Theme) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=srivatsa11826-hub&theme=tokyonight&hide_border=true&v=3" alt="GitHub Streak" />
-
-</div>
-
-  <br />
 
   <!-- 4. Contribution Streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=srivatsa11826-hub&theme=tokyonight&hide_border=true&background=transparent&v=1" alt="GitHub Streak" />
