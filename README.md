@@ -167,7 +167,25 @@ I turn ideas into dependable products—combining **machine learning**, **full-s
 </div>
 
 <div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=srivatsa11826-hub&bg_color=transparent&color=94a3b8&line=22d3ee&point=ffffff&area=true&area_color=0891b2&hide_border=true" alt="GitHub activity graph" />
+  
+  <h3>📈 GitHub Activity & Stats</h3>
+
+  <!-- 1. Activity Graph (Fixed background & cached busted) -->
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=srivatsa11826-hub&bg_color=transparent&color=94a3b8&line=22d3ee&point=ffffff&area=true&area_color=0891b2&hide_border=true&v=1" alt="GitHub activity graph" />
+
+  <br /><br />
+
+  <!-- 2. Overall Stats & 3. Top Languages (Displayed side-by-side) -->
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=srivatsa11826-hub&show_icons=true&theme=tokyonight&hide_border=true&bg_color=transparent&v=1" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srivatsa11826-hub&layout=compact&theme=tokyonight&hide_border=true&bg_color=transparent&v=1" alt="Top Languages" />
+  </p>
+
+  <br />
+
+  <!-- 4. Contribution Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=srivatsa11826-hub&theme=tokyonight&hide_border=true&background=transparent&v=1" alt="GitHub Streak" />
+
 </div>
 
 ---
