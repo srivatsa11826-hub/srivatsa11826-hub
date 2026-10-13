@@ -228,13 +228,38 @@ class Engineer:
 
 <div align="center">
 
-I am open to collaborating on **AI products, full-stack platforms, data systems, open-source projects, and thoughtful digital experiences**.
+<h2>🤝 Let’s Connect</h2>
 
-<a href="https://www.linkedin.com/in/srivatsa-vasu"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:srivatsa11826@gmail.com"><img src="https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://github.com/srivatsa11826-hub"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://github.com/srivatsa11826-hub">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Collaborating+on+AI+products;Building+full-stack+platforms;Designing+data+systems;Creating+thoughtful+digital+experiences" alt="Typing SVG" />
+</a>
 
 <br /><br />
+
+<table align="center" style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td align="center" width="180" style="border: none;">
+      <a href="https://www.linkedin.com/in/srivatsa-vasu">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="100%"/>
+      </a>
+    </td>
+    <td align="center" width="180" style="border: none;">
+      <a href="mailto:srivatsa11826@gmail.com">
+        <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" width="100%"/>
+      </a>
+    </td>
+    <td align="center" width="180" style="border: none;">
+      <a href="https://github.com/srivatsa11826-hub">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" width="100%"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+> **Open to opportunities and open-source collaborations.** Feel free to reach out!
+
 </div>
 
 **Build with purpose. Design with empathy. Ship with confidence.**
