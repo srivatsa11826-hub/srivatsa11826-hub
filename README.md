@@ -1,270 +1,177 @@
 <!--
-  GitHub Profile README for github.com/srivatsa11826-hub
-  Note: GitHub strips custom CSS and JavaScript, so the animated visual treatment
-  below uses GitHub-compatible SVG/GIF services rather than a true page background.
+  GitHub Profile README — github.com/srivatsa11826-hub
+  Design System: Deep Slate (#020617 / #0f172a / #1e293b) + Electric Cyan (#0891b2 / #22d3ee)
 -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,45:0f172a,100:0891b2&text=SRIVATSA&fontColor=ffffff&fontSize=54&fontAlignY=36&desc=Engineering%20intelligent%20products%20from%20data%20to%20deployment&descAlignY=58&descSize=18&animation=fadeIn" alt="Srivatsa — Engineering intelligent products from data to deployment" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=235&color=0:020617,45:0f172a,100:0891b2&text=SRIVATSA&fontColor=ffffff&fontSize=54&fontAlignY=35&desc=Engineering%20intelligent%20products%20from%20data%20to%20deployment&descAlignY=57&descSize=17&animation=fadeIn" alt="Srivatsa — Engineering intelligent products from data to deployment" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=2600&pause=800&color=22D3EE&center=true&vCenter=true&repeat=true&width=900&height=55&lines=Data+Science+%26+AI+Engineer;Full-Stack+%26+Software+Developer;Frontend+%7C+Backend+%7C+SQL;UI%2FUX+%26+Graphic+Designer;Building+reliable%2C+human-centered+digital+products" alt="Animated roles" />
+<a href="https://github.com/srivatsa11826-hub">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=800&color=22D3EE&center=true&vCenter=true&repeat=true&width=900&height=50&lines=AI+%26+Data+Science+Engineer;Full-Stack+%26+Edge-ML+Architect;RAG+%C2%B7+Computer+Vision+%C2%B7+Real-Time+Systems;UI%2FUX+%26+Design+Systems+Engineer" alt="Engineering Specialties" />
+</a>
 
-<p>
-  <a href="https://github.com/srivatsa11826-hub?tab=followers"><img src="https://img.shields.io/github/followers/srivatsa11826-hub?label=Followers&style=for-the-badge&logo=github&color=0891b2&labelColor=0f172a" alt="GitHub followers" /></a>
-  <img src="https://komarev.com/ghpvc/?username=srivatsa11826-hub&label=Profile+Views&style=for-the-badge&color=0891b2&labelColor=0f172a" alt="Profile views" />
-  <a href="https://github.com/srivatsa11826-hub?tab=repositories"><img src="https://img.shields.io/badge/Explore-Projects-22d3ee?style=for-the-badge&logo=github&logoColor=white&labelColor=0f172a" alt="Explore projects" /></a>
+<p align="center">
+  <a href="https://github.com/srivatsa11826-hub?tab=followers">
+    <img src="https://img.shields.io/github/followers/srivatsa11826-hub?label=Followers&style=for-the-badge&logo=github&logoColor=22d3ee&color=0891b2&labelColor=0f172a" alt="GitHub Followers" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=srivatsa11826-hub&label=Profile+Views&style=for-the-badge&color=0891b2&labelColor=0f172a" alt="Profile Views" />
+  <a href="https://github.com/srivatsa11826-hub?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-Explore-22d3ee?style=for-the-badge&logo=github&logoColor=0f172a&labelColor=0f172a" alt="Explore Repositories" />
+  </a>
+  <a href="https://www.linkedin.com/in/srivatsa-vasu">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0891b2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f172a" alt="LinkedIn" />
+  </a>
 </p>
 
-### AI systems · scalable software · thoughtful interfaces
+### Intelligent Systems · Resilient Architecture · Human-Centered Design
 
-I turn ideas into dependable products—combining **machine learning**, **full-stack engineering**, **data**, and **design** to build experiences that are technically strong and genuinely useful.
+I architect end-to-end digital products—combining **machine learning**, **full-stack systems**, **edge inference**, and **interface design** to ship software that performs reliably under real-world constraints.
 
 </div>
 
----
+<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0f172a,50:22d3ee,100:0f172a" alt="" />
 
-## About Me
+## Engineering Overview
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### What I build
+### Core Engineering Focus
 
-- Production-ready **AI and RAG systems**
-- Responsive, accessible **web applications**
-- Secure **APIs and backend services**
-- Real-time **analytics dashboards**
-- Data models and optimized **SQL workflows**
-- Consistent **design systems and visual identities**
+- **Production AI & RAG:** Hybrid retrieval pipelines, dense vector search, and LLM orchestration
+- **Edge & Vision ML:** Quantized ONNX inference, OpenCV pipelines, and real-time anomaly detection
+- **Full-Stack Systems:** Offline-first PWAs and accessible web apps built with Next.js & TypeScript
+- **Backend & Telemetry:** High-throughput FastAPI/Node services, WebSockets, and SQL optimization
+- **Design Engineering:** Tokenized component systems, interactive prototypes, and visual identities
 
 </td>
 <td width="50%" valign="top">
 
-### What I am exploring
+### Research & Exploration
 
-- LLM evaluation, agents, and vector search
-- MLOps, observability, and model deployment
-- Distributed, cloud-native architectures
-- Human-centered AI product design
-- Space technology, rocketry, and astrophysics
-- Open-source and developer communities
+- **Agentic Workflows:** Multi-step tool execution, structured outputs, and automated LLM evaluation
+- **MLOps & Observability:** Model deployment, inference latency profiling, and drift monitoring
+- **Cloud-Native Infra:** Containerized microservices and event-driven distributed architectures
+- **Low-Connectivity UX:** Resilient interfaces engineered for constrained networks and edge devices
+- **Aerospace & Rocketry:** Avionics telemetry, flight readiness systems, and CanSat payload design
 
 </td>
 </tr>
 </table>
 
-> **Engineering principle:** Great products live at the intersection of useful intelligence, reliable systems, and intuitive design.
+> **Architectural Principle:** Great software lives at the intersection of useful intelligence, deterministic reliability, and effortless UX.
 
----
+<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0f172a,50:22d3ee,100:0f172a" alt="" />
 
-## Core Capabilities
+## Domain Matrix
 
-<div align="center">
-
-| Artificial Intelligence | Software Engineering | Product Design |
+| Artificial Intelligence & ML | Full-Stack & Cloud Systems | Product & Design Engineering |
 |:---|:---|:---|
-| Machine learning & deep learning | Full-stack web development | UI/UX design |
-| LLM apps, RAG & agents | Frontend & backend engineering | Wireframes & prototyping |
-| NLP & data analytics | REST APIs & real-time systems | Design systems |
-| Vector search & evaluation | SQL, databases & cloud | Graphic & visual design |
+| <kbd>PyTorch</kbd> <kbd>ONNX</kbd> <kbd>LightGBM</kbd> | <kbd>Next.js</kbd> <kbd>React</kbd> <kbd>TypeScript</kbd> | <kbd>Design Systems</kbd> <kbd>Figma</kbd> |
+| <kbd>RAG</kbd> <kbd>LangChain</kbd> <kbd>Vector DBs</kbd> | <kbd>FastAPI</kbd> <kbd>Node.js</kbd> <kbd>WebSockets</kbd> | <kbd>UI/UX Prototyping</kbd> <kbd>WCAG</kbd> |
+| <kbd>OpenCV</kbd> <kbd>MediaPipe</kbd> <kbd>NLP</kbd> | <kbd>PostgreSQL</kbd> <kbd>Redis</kbd> <kbd>Docker</kbd> | <kbd>Offline-First PWAs</kbd> <kbd>Brand UI</kbd> |
 
-</div>
-
----
+<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0f172a,50:22d3ee,100:0f172a" alt="" />
 
 ## Technology Stack
 
 <details open>
-<summary><b>AI, Machine Learning & Data</b></summary>
+<summary><b>AI, Machine Learning & Data Engineering</b></summary>
 <br />
 <p>
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn&theme=dark" alt="Python, PyTorch, TensorFlow and scikit-learn" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv&theme=dark" alt="Python, PyTorch, TensorFlow, scikit-learn, OpenCV" />
 </p>
 <p>
-<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=111827" alt="Hugging Face" />
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
-<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=111827" alt="Power BI" />
+  <img src="https://img.shields.io/badge/ONNX_Runtime-0f172a?style=flat-square&logo=onnx&logoColor=22d3ee" alt="ONNX Runtime" />
+  <img src="https://img.shields.io/badge/LightGBM-0f172a?style=flat-square&logo=python&logoColor=38bdf8" alt="LightGBM" />
+  <img src="https://img.shields.io/badge/Hugging_Face-0f172a?style=flat-square&logo=huggingface&logoColor=FFD21E" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/LangChain-0f172a?style=flat-square&logo=langchain&logoColor=22d3ee" alt="LangChain" />
+  <img src="https://img.shields.io/badge/Gemini_%26_OpenAI_APIs-0f172a?style=flat-square&logo=googlegemini&logoColor=22d3ee" alt="Gemini and OpenAI APIs" />
+  <img src="https://img.shields.io/badge/Pandas-0f172a?style=flat-square&logo=pandas&logoColor=22d3ee" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-0f172a?style=flat-square&logo=numpy&logoColor=38bdf8" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Power_BI-0f172a?style=flat-square&logo=powerbi&logoColor=F2C811" alt="Power BI" />
 </p>
 </details>
 
 <details open>
-<summary><b>Frontend & UI Engineering</b></summary>
+<summary><b>Frontend & Design Engineering</b></summary>
 <br />
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite&theme=dark" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS and Vite" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite&theme=dark" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS, Vite" />
 </p>
 <p>
-<img src="https://img.shields.io/badge/Responsive_Design-0f172a?style=flat-square&logo=css3&logoColor=22d3ee" alt="Responsive Design" />
-<img src="https://img.shields.io/badge/Accessibility-0f172a?style=flat-square&logo=w3c&logoColor=22d3ee" alt="Accessibility" />
-<img src="https://img.shields.io/badge/Component_Systems-0f172a?style=flat-square&logo=storybook&logoColor=ff4785" alt="Component Systems" />
+  <img src="https://img.shields.io/badge/Offline--First_PWAs-0f172a?style=flat-square&logo=pwa&logoColor=22d3ee" alt="Offline-First PWAs" />
+  <img src="https://img.shields.io/badge/Design_Systems-0f172a?style=flat-square&logo=storybook&logoColor=FF4785" alt="Design Systems" />
+  <img src="https://img.shields.io/badge/WCAG_Accessibility-0f172a?style=flat-square&logo=w3c&logoColor=22d3ee" alt="WCAG Accessibility" />
 </p>
 </details>
 
 <details open>
-<summary><b>Backend, Databases & Cloud</b></summary>
+<summary><b>Backend, Databases & Cloud Infrastructure</b></summary>
 <br />
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,postgres,mysql,mongodb,redis,firebase,aws,gcp,docker&theme=dark" alt="Node.js, Express, FastAPI, PostgreSQL, MySQL, MongoDB, Redis, Firebase, AWS, Google Cloud and Docker" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,postgres,mysql,mongodb,redis,firebase,aws,gcp,docker&theme=dark" alt="Node.js, Express, FastAPI, PostgreSQL, MySQL, MongoDB, Redis, Firebase, AWS, GCP, Docker" />
 </p>
 <p>
-<img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
-<img src="https://img.shields.io/badge/REST_APIs-0f172a?style=flat-square&logo=fastapi&logoColor=22d3ee" alt="REST APIs" />
-<img src="https://img.shields.io/badge/WebSockets-0f172a?style=flat-square&logo=socketdotio&logoColor=white" alt="WebSockets" />
-<img src="https://img.shields.io/badge/Database_Design-0f172a?style=flat-square&logo=databricks&logoColor=22d3ee" alt="Database Design" />
+  <img src="https://img.shields.io/badge/RESTful_APIs-0f172a?style=flat-square&logo=fastapi&logoColor=22d3ee" alt="RESTful APIs" />
+  <img src="https://img.shields.io/badge/WebSockets-0f172a?style=flat-square&logo=socketdotio&logoColor=ffffff" alt="WebSockets" />
+  <img src="https://img.shields.io/badge/Query_Optimization-0f172a?style=flat-square&logo=postgresql&logoColor=38bdf8" alt="Query Optimization" />
+  <img src="https://img.shields.io/badge/Schema_Architecture-0f172a?style=flat-square&logo=databricks&logoColor=22d3ee" alt="Schema Architecture" />
 </p>
 </details>
 
 <details open>
-<summary><b>Design, Developer Tools & Workflow</b></summary>
+<summary><b>Design, DevOps & Developer Tooling</b></summary>
 <br />
 <p>
-<img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,git,github,linux,vscode,postman&theme=dark" alt="Figma, Photoshop, Illustrator, Git, GitHub, Linux, VS Code and Postman" />
+  <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,git,github,linux,vscode,postman&theme=dark" alt="Figma, Photoshop, Illustrator, Git, GitHub, Linux, VS Code, Postman" />
 </p>
 <p>
-<img src="https://img.shields.io/badge/UI%2FUX_Design-A259FF?style=flat-square&logo=figma&logoColor=white" alt="UI/UX Design" />
-<img src="https://img.shields.io/badge/Graphic_Design-FF61F6?style=flat-square&logo=adobecreativecloud&logoColor=white" alt="Graphic Design" />
-<img src="https://img.shields.io/badge/Agile-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Agile" />
+  <img src="https://img.shields.io/badge/UI%2FUX_Prototyping-0f172a?style=flat-square&logo=figma&logoColor=A259FF" alt="UI/UX Prototyping" />
+  <img src="https://img.shields.io/badge/Visual_Identity-0f172a?style=flat-square&logo=adobecreativecloud&logoColor=FF61F6" alt="Visual Identity" />
+  <img src="https://img.shields.io/badge/GitHub_Actions_CI%2FCD-0f172a?style=flat-square&logo=githubactions&logoColor=22d3ee" alt="GitHub Actions CI/CD" />
 </p>
 </details>
 
----
+<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0f172a,50:22d3ee,100:0f172a" alt="" />
 
-## Featured Work
+## Selected Systems
 
-<div align="center">
-
-| Project | What it does | Technology |
+| System | Architecture & Impact | Core Stack |
 |:---|:---|:---|
-| **MindMate** | AI-assisted healthcare experience designed to support patient interaction and access to information. | React · Python · AI |
-| **RAG Knowledge Agent** | Context-aware question-answering workflow using retrieval, embeddings, and vector search. | LangChain · Chroma · LLMs |
-| **IoT Analytics Platform** | Real-time sensor ingestion and visualization for monitoring operational data. | FastAPI · WebSockets · Pandas |
-
-</div>
-
-<div align="center">
-  <a href="https://github.com/srivatsa11826-hub?tab=repositories"><img src="https://img.shields.io/badge/View_All_Repositories-0f172a?style=for-the-badge&logo=github&logoColor=22d3ee" alt="View all repositories" /></a>
-</div>
-
-<!-- Add direct links to the project titles above after publishing their repositories. -->
-
----
-
-## GitHub Insights
+| [**SurgeShield**](https://github.com/srivatsa11826-hub?tab=repositories) | Real-time AI banking fraud detection engine combining LightGBM and Isolation Forest anomaly scoring for low-latency transaction risk analysis. | <kbd>LightGBM</kbd> <kbd>FastAPI</kbd> <kbd>Next.js</kbd> |
+| [**AshaLens**](https://github.com/srivatsa11826-hub?tab=repositories) | Offline-first, phone-first clinical decision-support PWA engineered for primary care with edge-ML inference, OpenCV capture, and multilingual speech workflows. | <kbd>Next.js</kbd> <kbd>ONNX</kbd> <kbd>OpenCV</kbd> |
+| [**Urban Air Quality AI**](https://github.com/srivatsa11826-hub/urban-air-quality-ai-assistant) | Environmental intelligence platform delivering real-time AQI telemetry, pollutant trend analytics, and generative AI advisory insights. | <kbd>Python</kbd> <kbd>FastAPI</kbd> <kbd>GenAI</kbd> |
+| [**MindMate**](https://github.com/srivatsa11826-hub?tab=repositories) | AI-assisted healthcare experience streamlining patient triage, guided interaction, and structured medical information retrieval. | <kbd>React</kbd> <kbd>Python</kbd> <kbd>NLP</kbd> |
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=srivatsa11826-hub&show_icons=true&theme=transparent&hide_border=true&title_color=22d3ee&icon_color=22d3ee&text_color=94a3b8&ring_color=0891b2" alt="Srivatsa's GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srivatsa11826-hub&layout=compact&theme=transparent&hide_border=true&title_color=22d3ee&text_color=94a3b8&langs_count=8" alt="Most-used languages" />
+  <br />
+  <a href="https://github.com/srivatsa11826-hub?tab=repositories">
+    <img src="https://img.shields.io/badge/Browse_All_Repositories-0f172a?style=for-the-badge&logo=github&logoColor=22d3ee" alt="Browse All Repositories" />
+  </a>
 </div>
 
+<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0f172a,50:22d3ee,100:0f172a" alt="" />
 
+## System Manifest
 
-  <!-- 4. Contribution Streak -->
-  <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=srivatsa11826-hub&theme=tokyonight&hide_border=true&background=transparent&v=1" alt="GitHub Streak" />
-  </div>
+```ts
+interface ArchitectProfile {
+  readonly handle: "srivatsa11826-hub";
+  readonly disciplines: readonly ["AI & Data Engineering", "Full-Stack Systems", "Product Design"];
+  readonly stack: Record<"intelligence" | "systems" | "interface", string[]>;
+  status: () => string;
+}
 
-</div>
-
----
-
-## Current Direction
-
-```python
-class Engineer:
-    def __init__(self):
-        self.name = "Srivatsa"
-        self.roles = [
-            "AI & Data Science Engineer",
-            "Full-Stack Software Developer",
-            "UI/UX & Graphic Designer",
-        ]
-        self.principles = ["clarity", "reliability", "curiosity", "impact"]
-
-    def building_now(self):
-        return {
-            "ai": "production-ready RAG and intelligent workflows",
-            "software": "scalable, secure full-stack products",
-            "data": "real-time analytics and decision systems",
-            "design": "accessible and human-centered interfaces",
-        }
-
-    def collaborate(self):
-        return "Let's turn an ambitious idea into a useful product."
-```
-
----
-
-<div align="center">
-  <h2>🐍 Contribution Journey</h2>
-
-  <picture>
-    <source 
-      media="(prefers-color-scheme: dark)" 
-      srcset="https://raw.githubusercontent.com/srivatsa11826-hub/srivatsa11826-hub/output/github-snake-dark.svg" 
-    />
-    <source 
-      media="(prefers-color-scheme: light)" 
-      srcset="https://raw.githubusercontent.com/srivatsa11826-hub/srivatsa11826-hub/output/github-snake.svg" 
-    />
-    <img 
-      alt="Contribution Snake Animation" 
-      src="https://raw.githubusercontent.com/srivatsa11826-hub/srivatsa11826-hub/output/github-snake-dark.svg"
-      width="100%"
-    />
-  </picture>
-
-  <p align="center">
-    <i>Dynamic contribution activity tracked automatically via GitHub Actions</i>
-  </p>
-</div>
----
-
-## Let’s Connect
-
-<div align="center">
-
-<h2>🤝 Let’s Connect</h2>
-
-<a href="https://github.com/srivatsa11826-hub">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Collaborating+on+AI+products;Building+full-stack+platforms;Designing+data+systems;Creating+thoughtful+digital+experiences" alt="Typing SVG" />
-</a>
-
-<br /><br />
-
-<table align="center" style="border-collapse: collapse; border: none;">
-  <tr style="border: none;">
-    <td align="center" width="180" style="border: none;">
-      <a href="https://www.linkedin.com/in/srivatsa-vasu">
-        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="100%"/>
-      </a>
-    </td>
-    <td align="center" width="180" style="border: none;">
-      <a href="mailto:srivatsa11826@gmail.com">
-        <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" width="100%"/>
-      </a>
-    </td>
-    <td align="center" width="180" style="border: none;">
-      <a href="https://github.com/srivatsa11826-hub">
-        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" width="100%"/>
-      </a>
-    </td>
-  </tr>
-</table>
-
-<br />
-
-> **Open to opportunities and open-source collaborations.** Feel free to reach out!
-
-</div>
-
-**Build with purpose. Design with empathy. Ship with confidence.**
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0891b2,55:0f172a,100:020617&section=footer" alt="Footer wave" />
-
-</div>
+export const srivatsa: ArchitectProfile = {
+  handle: "srivatsa11826-hub",
+  disciplines: ["AI & Data Engineering", "Full-Stack Systems", "Product Design"],
+  stack: {
+    intelligence: ["RAG Pipelines", "ONNX Edge ML", "Computer Vision", "Anomaly Detection"],
+    systems: ["TypeScript", "Python", "FastAPI", "Node.js", "PostgreSQL", "Docker"],
+    interface: ["Next.js", "React", "Tailwind CSS", "Offline-First PWAs", "Figma"],
+  },
+  status: () => "Open to high-impact engineering roles & open-source collaboration.",
+};
